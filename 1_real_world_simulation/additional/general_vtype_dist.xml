@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+
+	 <vTypeDistribution id="typedist1">
+		 <vType id="Car" vClass="passenger" 
+			 guiShape="passenger/sedan" 
+			 probability="0.3417" minGap="2" 
+			 length="4.2" width="2.1" 
+			 maxSpeed="22.22" 
+			 sigma="0.23424849961615712"/> 
+
+		 <vType id="Motor_Cycle" vClass="motorcycle" 
+			 guiShape="motorcycle" 
+			 probability="0.2091" minGap="1" 
+			 length="2.0" width="0.9" 
+			 maxSpeed="22.22" 
+			 sigma="0.23424849961615712"/> 
+
+		 <vType id="Van" vClass="passenger" 
+			 guiShape="passenger/van" 
+			 probability="0.1996" minGap="2" 
+			 length="5.3" width="2.10" 
+			 maxSpeed="19.44" 
+			 sigma="0.23424849961615712"/> 
+
+		 <vType id="3_Wheeler" vClass="passenger" 
+			 guiShape="passenger/hatchback" 
+			 probability="0.1986" minGap="1" 
+			 length="2.55" width="1.5" 
+			 maxSpeed="16.67" 
+			 sigma="0.23424849961615712"/> 
+
+		 <vType id="Goods_Vehicle" vClass="truck" 
+			 guiShape="truck" 
+			 probability="0.0493" minGap="2.5" 
+			 length="6.25" width="2.35" 
+			 maxSpeed="13.889" 
+			 sigma="0.23424849961615712"/> 
+
+		 <vType id="Multi_Axle" vClass="trailer" 
+			 guiShape="truck/trailer" 
+			 probability="0.0017" minGap="2.5" 
+			 length="15.5" width="3.0" 
+			 maxSpeed="11.11" 
+			 sigma="0.23424849961615712"/> 
+
+	 </vTypeDistribution> 
+</additional>

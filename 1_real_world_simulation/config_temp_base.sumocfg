@@ -1,0 +1,31 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="network/colombo_galleroad.net.xml" />
+        <route-files value="demand/calibrated_demand_warmup.rou.xml,                             demand/calibrated_demand_6am_7am.rou.xml" />
+        <additional-files value="additional/bus/cross_junction_ratmalana_bus_stops.xml,                                 additional/bus/bus_trips_6am_7am.xml,                                 additional/tls_sumo_generated_fixed.tll.xml,                                 additional/vType/vtype_dist_warmup.xml,                                 additional/vType/vtype_dist_6am_7am.xml,                                 output/edge/edge_based_output_generator_base.add.xml" />
+        <gui-settings-file value="view/acc_waiting.xml" />
+
+
+    </input>
+
+    <processing>
+        <ignore-route-errors value="true" />
+        <lateral-resolution value="1.6" />
+    </processing>
+
+    <report>
+        <verbose value="true" />
+        <duration-log.statistics value="true" />
+        <no-step-log value="true" />
+    </report>
+
+    <random_number>
+        <seed value="12345" />
+    </random_number>
+
+    <gui_only>
+
+    </gui_only>
+
+</configuration>

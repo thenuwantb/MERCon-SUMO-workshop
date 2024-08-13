@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-11 23:04:01 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="01_cross_junction" name="Cross Junction" lane="CR_MP_001_0" startPos="60.00" endPos="105.00" friendlyPos="true"/>
+    <busStop id="02_mendis_tower" name="Mendis Tower Hall" lane="CR_MP_005_0" startPos="24.00" endPos="69.00" friendlyPos="true"/>
+    <busStop id="03_rawatawatta" name="Rawatawatta" lane="CR_MP_009_0" startPos="5.00" endPos="50.00"/>
+    <busStop id="04_lakshapathiya" name="Lakshapathiya" lane="CR_MP_012_0" startPos="230.00" endPos="275.00"/>
+    <busStop id="05_commercial_bank_rw" name="Commercial Bank Halt" lane="CR_MP_014_0" startPos="35.00" endPos="80.00"/>
+    <busStop id="06_katubedda_junc" name="Katubedda Junction" lane="CR_MP_KATU_BUS_JUMP_0" startPos="20.00" endPos="65.00" friendlyPos="true"/>
+    <busStop id="07_mallika_bakery" name="Mallika Bekariya Halt" lane="CR_MP_022_0" startPos="45.00" endPos="90.00" friendlyPos="true"/>
+    <busStop id="08_german_tec" name="German Tec Halt" lane="CR_MP_024_0" startPos="125.00" endPos="170.00" friendlyPos="true"/>
+    <busStop id="09_soyza_flat" name="Soyza Flat Halt" lane="CR_MP_026_0" startPos="100.00" endPos="145.00" friendlyPos="true"/>
+    <busStop id="10_golumadama" name="Golumadama Halt" lane="CR_MP_030_0" startPos="4.00" endPos="24.00" friendlyPos="true"/>
+    <busStop id="11_golumadama_sathosa" name="Golumadama Sathosa Halt" lane="CR_MP_035_0" startPos="120.00" endPos="165.00" friendlyPos="true"/>
+    <busStop id="12_belek_kade" name="Belek Kade Junction" lane="CR_MP_037_0" startPos="240.00" endPos="285.00" friendlyPos="true"/>
+    <busStop id="13_vijitha_hall" name="Vijitha Film Hall Halt" lane="CR_MP_040_0" startPos="20.00" endPos="65.00" friendlyPos="true"/>
+    <busStop id="14_maliban_junc" name="Maliban Junction Halt" lane="CR_MP_RATH_BUS_JUMP_0" startPos="5.00" endPos="50.00" friendlyPos="true"/>
+</additional>

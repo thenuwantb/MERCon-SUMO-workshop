@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-07 20:15:35 by Eclipse SUMO netedit Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumocfg-file value="E:\OneDrive\SUMO\Coding\Coding\bpm_shared_05102021\5_Cross_Maliban_Real_Counts\run_simulation.sumocfg"/>
+        <additional-files value="E:\OneDrive\SUMO\Coding\Coding\bpm_shared_05102021\5_Cross_Maliban_Real_Counts\additional/bus/cross_junction_ratmalana_bus_stops.xml"/>
+        <route-files value="E:\OneDrive\SUMO\Coding\Coding\bpm_shared_05102021\5_Cross_Maliban_Real_Counts\demand/calibrated_demand.rou.xml"/>
+        <sumo-net-file value="E:\OneDrive\SUMO\Coding\Coding\bpm_shared_05102021\5_Cross_Maliban_Real_Counts\network/colombo_galleroad_edges_renamed_60kmph_08122022.net.xml"/>
+    </input>
+
+    <output>
+        <tls-file value="E:\OneDrive\SUMO\Coding\Coding\bpm_shared_05102021\5_Cross_Maliban_Real_Counts\additional\tls_sumo_generated_fixed.tll.xml"/>
+        <output.street-names value="true"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="1"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.50"/>
+        <rectangular-lane-cut value="0"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="0"/>
+    </pedestrian>
+
+    <netedit>
+        <ignore.routeelements value="false"/>
+    </netedit>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <tlLogic id="cross_junction" type="static" programID="0" offset="0">
+        <phase duration="25" state="rrrrGGGGgrrrrgGGG"/>
+        <phase duration="5" state="rrrryyyyyrrrryyyy"/>
+        <phase duration="25" state="ggGGGGrrrrrrrrrrr"/>
+        <phase duration="5" state="yyyyyyrrrrrrrrrrr"/>
+        <phase duration="25" state="rrrrrrrrrGGGGGrrr"/>
+        <phase duration="5" state="rrrrrrrrryyyyyrrr"/>
+    </tlLogic>
+</additional>

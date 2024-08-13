@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-07-16 10:27:12 by Eclipse SUMO netedit Version 1.13.0
+-->
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+
+    <edgeData id="corridor_aggregated_5mins_all" file="edge_data_output_base.xml" freq="300" begin="900" end="4500"
+              excludeEmpty="true" aggregate="true"
+              edges="CR_MP_001 CR_MP_002 CR_MP_003 CR_MP_004 CR_MP_005
+                     CR_MP_006 CR_MP_007 CR_MP_008 CR_MP_009 CR_MP_010
+                     CR_MP_011 CR_MP_012 CR_MP_013 CR_MP_014 CR_MP_015
+                     CR_MP_016 CR_MP_017 CR_MP_018 CR_MP_019 CR_MP_020
+                     CR_MP_021 CR_MP_022 CR_MP_023 CR_MP_024 CR_MP_025
+                     CR_MP_026 CR_MP_027 CR_MP_028 CR_MP_029 CR_MP_030
+                     CR_MP_031 CR_MP_032 CR_MP_033 CR_MP_034 CR_MP_035
+                     CR_MP_036 CR_MP_037 CR_MP_038 CR_MP_039 CR_MP_040
+                     CR_MP_041 CR_MP_042 CR_MP_043"
+    />
+
+    <edgeData id="corridor_aggregated_5mins_bus" file="edge_data_output_base.xml" freq="300" begin="900" end="4500"
+              excludeEmpty="true" aggregate="true" vTypes="short_distance long_distance"
+              edges="CR_MP_001 CR_MP_002 CR_MP_003 CR_MP_004 CR_MP_005
+                     CR_MP_006 CR_MP_007 CR_MP_008 CR_MP_009 CR_MP_010
+                     CR_MP_011 CR_MP_012 CR_MP_013 CR_MP_014 CR_MP_015
+                     CR_MP_016 CR_MP_017 CR_MP_018 CR_MP_019 CR_MP_020
+                     CR_MP_021 CR_MP_022 CR_MP_023 CR_MP_024 CR_MP_025
+                     CR_MP_026 CR_MP_027 CR_MP_028 CR_MP_029 CR_MP_030
+                     CR_MP_031 CR_MP_032 CR_MP_033 CR_MP_034 CR_MP_035
+                     CR_MP_036 CR_MP_037 CR_MP_038 CR_MP_039 CR_MP_040
+                     CR_MP_041 CR_MP_042 CR_MP_043"
+    />
+
+    <edgeData id="corridor_aggregated_5mins_gen" file="edge_data_output_base.xml" freq="300" begin="900" end="4500"
+              excludeEmpty="true" aggregate="true"
+              vTypes="Car_6_7 Motor_Cycle_6_7 Van_6_7  3_Wheeler_6_7 Goods_Vehicle_6_7 Multi_Axle_6_7
+                        Car_7_8 Motor_Cycle_7_8 Van_7_8 3_Wheeler_7_8 Goods_Vehicle_7_8 Multi_Axle_7_8
+                        Car_8_9 Motor_Cycle_8_9 Van_8_9 3_Wheeler_8_9 Goods_Vehicle_8_9 Multi_Axle_8_9"
+              edges="CR_MP_001 CR_MP_002 CR_MP_003 CR_MP_004 CR_MP_005
+                     CR_MP_006 CR_MP_007 CR_MP_008 CR_MP_009 CR_MP_010
+                     CR_MP_011 CR_MP_012 CR_MP_013 CR_MP_014 CR_MP_015
+                     CR_MP_016 CR_MP_017 CR_MP_018 CR_MP_019 CR_MP_020
+                     CR_MP_021 CR_MP_022 CR_MP_023 CR_MP_024 CR_MP_025
+                     CR_MP_026 CR_MP_027 CR_MP_028 CR_MP_029 CR_MP_030
+                     CR_MP_031 CR_MP_032 CR_MP_033 CR_MP_034 CR_MP_035
+                     CR_MP_036 CR_MP_037 CR_MP_038 CR_MP_039 CR_MP_040
+                     CR_MP_041 CR_MP_042 CR_MP_043"
+    />
+</additional>

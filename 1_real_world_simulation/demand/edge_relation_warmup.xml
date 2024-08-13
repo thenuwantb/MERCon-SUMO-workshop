@@ -1,0 +1,701 @@
+<data>
+	<interval id="05:45 - 05:50" begin="0" end="300">
+		<!--"Junction : Cross Junction Direction : To Colombo"-->
+		<edgeRelation from="112446385#5" to="CR_MP_001" count="61"/>
+		<!--"Junction : Cross Junction Direction : To Colombo"-->
+		<edgeRelation from="351910071" to="CR_MP_001" count="38"/>
+		<!--"Junction : Cross Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_000" to="CR_MP_001" count="3"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="669189459" to="199382582#0" count="17"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="337818184#0" to="337818184#1" count="12"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="351910071" to="199382582#0" count="0"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_000" to="199382582#0" count="0"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_000" to="337818184#1" count="2"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="669189459" to="OR_O_000" count="2"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="112446385#5" to="OR_O_000" count="0"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="351910071" to="OR_O_000" count="0"/>
+		<!--"Junction : Katubedda Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_019" to="CR_MP_020" count="94"/>
+		<!--"Junction : Katubedda Junction Direction : To Colombo"-->
+		<edgeRelation from="gneE5" to="CR_MP_020" count="12"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="51133939#4" to="51133939#5" count="15"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="gneE5" to="51133939#5" count="5"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="51133939#4" to="OP_gneE5" count="4"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="CR_MP_019" to="OP_gneE5" count="9"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_025" to="CR_MP_026" count="109"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="102652283#19" to="CR_MP_026" count="5"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_019" to="CR_MP_026" count="6"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#22" to="102650983#0" count="30"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#22" to="-487433731" count="1"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#22" to="OR_O_019" count="1"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_019" to="-487433731" count="1"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_019" to="102650983#0" count="2"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="102652283#19" to="OR_O_019" count="0"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="102652283#19" to="102650983#0" count="1"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_025" to="-487433731" count="0"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_025" to="OR_O_019" count="0"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_034" to="CR_MP_035" count="13"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="-487433558#1" to="CR_MP_035" count="0"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_026" to="CR_MP_035" count="19"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_034" to="OR_O_026" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="-487433558#1" to="OR_O_026" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#18" to="OR_O_026" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_026" to="758636098#19" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="-487433558#1" to="758636098#19" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#18" to="758636098#19" count="2"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_034" to="46968039" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#18" to="46968039" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_026" to="46968039" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_037" to="CR_MP_038" count="115"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="109082678#1" to="CR_MP_038" count="2"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_027" to="CR_MP_038" count="1"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#11" to="758636098#13" count="30"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="109082678#1" to="758636098#13" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_027" to="758636098#13" count="4"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_037" to="-109082678#1" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#11" to="-109082678#1" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_027" to="-109082678#1" count="1"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_037" to="OR_O_027" count="2"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#11" to="OR_O_027" count="3"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="109082678#1" to="OR_O_027" count="0"/>
+		<!--"Junction : Maliban Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_043" to="102651364#22" count="97"/>
+		<!--"Junction : Maliban Junction Direction : To Colombo"-->
+		<edgeRelation from="-19811337#1" to="102651364#22" count="1"/>
+		<!--"Junction : Maliban Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#2" to="758636098#3" count="30"/>
+		<!--"Junction : Maliban Junction Direction : Out of Colombo"-->
+		<edgeRelation from="-19811337#1" to="758636098#3" count="13"/>
+		<!--"Junction : Maliban Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_043" to="19811337#1" count="20"/>
+		<!--"Junction : Maliban Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#2" to="19811337#1" count="1"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_001" to="CR_MP_003" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_002" to="CR_MP_004" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_003" to="CR_MP_005" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_004" to="CR_MP_006" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_005" to="CR_MP_007" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_006" to="CR_MP_008" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_007" to="CR_MP_009" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_008" to="CR_MP_010" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_009" to="CR_MP_012" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_010" to="CR_MP_013" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_011" to="CR_MP_014" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_012" to="CR_MP_015" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_013" to="CR_MP_016" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_014" to="CR_MP_017" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_015" to="CR_MP_018" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_016" to="CR_MP_022" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_017" to="CR_MP_023" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_018" to="CR_MP_025" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_020" to="CR_MP_027" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_021" to="CR_MP_029" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_022" to="CR_MP_030" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_023" to="CR_MP_032" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_024" to="CR_MP_033" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_025" to="CR_MP_034" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_028" to="CR_MP_039" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_029" to="CR_MP_040" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_030" to="CR_MP_041" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_031" to="CR_MP_042" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_002" to="OR_O_001" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_003" to="OR_O_002" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_004" to="OR_O_003" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_005" to="OR_O_004" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_006" to="OR_O_005" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_007" to="OR_O_006" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_008" to="OR_O_007" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_009" to="OR_O_008" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_011" to="OR_O_009" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_012" to="OR_O_010" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_013" to="OR_O_011" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_014" to="OR_O_012" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_015" to="OR_O_013" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_016" to="OR_O_014" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_017" to="OR_O_015" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_021" to="OR_O_016" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_022" to="OR_O_017" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_024" to="OR_O_018" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_026" to="OR_O_020" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_028" to="OR_O_021" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_029" to="OR_O_022" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_031" to="OR_O_023" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_032" to="OR_O_024" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_033" to="OR_O_025" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_038" to="OR_O_028" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_039" to="OR_O_029" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_040" to="OR_O_030" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_041" to="OR_O_031" count="4"/>
+	</interval>
+
+	<interval id="05:50 - 05:55" begin="300" end="600">
+		<!--"Junction : Cross Junction Direction : To Colombo"-->
+		<edgeRelation from="112446385#5" to="CR_MP_001" count="61"/>
+		<!--"Junction : Cross Junction Direction : To Colombo"-->
+		<edgeRelation from="351910071" to="CR_MP_001" count="38"/>
+		<!--"Junction : Cross Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_000" to="CR_MP_001" count="3"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="669189459" to="199382582#0" count="17"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="337818184#0" to="337818184#1" count="12"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="351910071" to="199382582#0" count="0"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_000" to="199382582#0" count="0"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_000" to="337818184#1" count="2"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="669189459" to="OR_O_000" count="2"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="112446385#5" to="OR_O_000" count="0"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="351910071" to="OR_O_000" count="0"/>
+		<!--"Junction : Katubedda Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_019" to="CR_MP_020" count="94"/>
+		<!--"Junction : Katubedda Junction Direction : To Colombo"-->
+		<edgeRelation from="gneE5" to="CR_MP_020" count="12"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="51133939#4" to="51133939#5" count="15"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="gneE5" to="51133939#5" count="5"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="51133939#4" to="OP_gneE5" count="4"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="CR_MP_019" to="OP_gneE5" count="9"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_025" to="CR_MP_026" count="109"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="102652283#19" to="CR_MP_026" count="5"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_019" to="CR_MP_026" count="6"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#22" to="102650983#0" count="30"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#22" to="-487433731" count="1"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#22" to="OR_O_019" count="1"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_019" to="-487433731" count="1"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_019" to="102650983#0" count="2"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="102652283#19" to="OR_O_019" count="0"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="102652283#19" to="102650983#0" count="1"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_025" to="-487433731" count="0"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_025" to="OR_O_019" count="0"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_034" to="CR_MP_035" count="13"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="-487433558#1" to="CR_MP_035" count="0"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_026" to="CR_MP_035" count="19"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_034" to="OR_O_026" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="-487433558#1" to="OR_O_026" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#18" to="OR_O_026" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_026" to="758636098#19" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="-487433558#1" to="758636098#19" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#18" to="758636098#19" count="2"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_034" to="46968039" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#18" to="46968039" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_026" to="46968039" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_037" to="CR_MP_038" count="115"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="109082678#1" to="CR_MP_038" count="2"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_027" to="CR_MP_038" count="1"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#11" to="758636098#13" count="30"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="109082678#1" to="758636098#13" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_027" to="758636098#13" count="4"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_037" to="-109082678#1" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#11" to="-109082678#1" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_027" to="-109082678#1" count="1"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_037" to="OR_O_027" count="2"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#11" to="OR_O_027" count="3"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="109082678#1" to="OR_O_027" count="0"/>
+		<!--"Junction : Maliban Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_043" to="102651364#22" count="97"/>
+		<!--"Junction : Maliban Junction Direction : To Colombo"-->
+		<edgeRelation from="-19811337#1" to="102651364#22" count="1"/>
+		<!--"Junction : Maliban Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#2" to="758636098#3" count="30"/>
+		<!--"Junction : Maliban Junction Direction : Out of Colombo"-->
+		<edgeRelation from="-19811337#1" to="758636098#3" count="13"/>
+		<!--"Junction : Maliban Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_043" to="19811337#1" count="20"/>
+		<!--"Junction : Maliban Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#2" to="19811337#1" count="1"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_001" to="CR_MP_003" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_002" to="CR_MP_004" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_003" to="CR_MP_005" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_004" to="CR_MP_006" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_005" to="CR_MP_007" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_006" to="CR_MP_008" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_007" to="CR_MP_009" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_008" to="CR_MP_010" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_009" to="CR_MP_012" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_010" to="CR_MP_013" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_011" to="CR_MP_014" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_012" to="CR_MP_015" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_013" to="CR_MP_016" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_014" to="CR_MP_017" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_015" to="CR_MP_018" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_016" to="CR_MP_022" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_017" to="CR_MP_023" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_018" to="CR_MP_025" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_020" to="CR_MP_027" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_021" to="CR_MP_029" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_022" to="CR_MP_030" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_023" to="CR_MP_032" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_024" to="CR_MP_033" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_025" to="CR_MP_034" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_028" to="CR_MP_039" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_029" to="CR_MP_040" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_030" to="CR_MP_041" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_031" to="CR_MP_042" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_002" to="OR_O_001" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_003" to="OR_O_002" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_004" to="OR_O_003" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_005" to="OR_O_004" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_006" to="OR_O_005" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_007" to="OR_O_006" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_008" to="OR_O_007" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_009" to="OR_O_008" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_011" to="OR_O_009" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_012" to="OR_O_010" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_013" to="OR_O_011" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_014" to="OR_O_012" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_015" to="OR_O_013" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_016" to="OR_O_014" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_017" to="OR_O_015" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_021" to="OR_O_016" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_022" to="OR_O_017" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_024" to="OR_O_018" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_026" to="OR_O_020" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_028" to="OR_O_021" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_029" to="OR_O_022" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_031" to="OR_O_023" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_032" to="OR_O_024" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_033" to="OR_O_025" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_038" to="OR_O_028" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_039" to="OR_O_029" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_040" to="OR_O_030" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_041" to="OR_O_031" count="4"/>
+	</interval>
+
+	<interval id="05:55 - 06:00" begin="600" end="900">
+		<!--"Junction : Cross Junction Direction : To Colombo"-->
+		<edgeRelation from="112446385#5" to="CR_MP_001" count="61"/>
+		<!--"Junction : Cross Junction Direction : To Colombo"-->
+		<edgeRelation from="351910071" to="CR_MP_001" count="38"/>
+		<!--"Junction : Cross Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_000" to="CR_MP_001" count="3"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="669189459" to="199382582#0" count="17"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="337818184#0" to="337818184#1" count="12"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="351910071" to="199382582#0" count="0"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_000" to="199382582#0" count="0"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_000" to="337818184#1" count="2"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="669189459" to="OR_O_000" count="2"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="112446385#5" to="OR_O_000" count="0"/>
+		<!--"Junction : Cross Junction Direction : Out of Colombo"-->
+		<edgeRelation from="351910071" to="OR_O_000" count="0"/>
+		<!--"Junction : Katubedda Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_019" to="CR_MP_020" count="94"/>
+		<!--"Junction : Katubedda Junction Direction : To Colombo"-->
+		<edgeRelation from="gneE5" to="CR_MP_020" count="12"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="51133939#4" to="51133939#5" count="15"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="gneE5" to="51133939#5" count="5"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="51133939#4" to="OP_gneE5" count="4"/>
+		<!--"Junction : Katubedda Junction Direction : Out of Colombo"-->
+		<edgeRelation from="CR_MP_019" to="OP_gneE5" count="9"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_025" to="CR_MP_026" count="109"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="102652283#19" to="CR_MP_026" count="5"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_019" to="CR_MP_026" count="6"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#22" to="102650983#0" count="30"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#22" to="-487433731" count="1"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#22" to="OR_O_019" count="1"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_019" to="-487433731" count="1"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_019" to="102650983#0" count="2"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="102652283#19" to="OR_O_019" count="0"/>
+		<!--"Junction : Angulana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="102652283#19" to="102650983#0" count="1"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_025" to="-487433731" count="0"/>
+		<!--"Junction : Angulana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_025" to="OR_O_019" count="0"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_034" to="CR_MP_035" count="13"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="-487433558#1" to="CR_MP_035" count="0"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_026" to="CR_MP_035" count="19"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_034" to="OR_O_026" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="-487433558#1" to="OR_O_026" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#18" to="OR_O_026" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_026" to="758636098#19" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="-487433558#1" to="758636098#19" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#18" to="758636098#19" count="2"/>
+		<!--"Junction : Borupana Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_034" to="46968039" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#18" to="46968039" count="0"/>
+		<!--"Junction : Borupana Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_026" to="46968039" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_037" to="CR_MP_038" count="115"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="109082678#1" to="CR_MP_038" count="2"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="OR_I_027" to="CR_MP_038" count="1"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#11" to="758636098#13" count="30"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="109082678#1" to="758636098#13" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_027" to="758636098#13" count="4"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_037" to="-109082678#1" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#11" to="-109082678#1" count="0"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="OR_I_027" to="-109082678#1" count="1"/>
+		<!--"Junction : Belek Kade Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_037" to="OR_O_027" count="2"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#11" to="OR_O_027" count="3"/>
+		<!--"Junction : Belek Kade Junction Direction : Out of Colombo"-->
+		<edgeRelation from="109082678#1" to="OR_O_027" count="0"/>
+		<!--"Junction : Maliban Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_043" to="102651364#22" count="97"/>
+		<!--"Junction : Maliban Junction Direction : To Colombo"-->
+		<edgeRelation from="-19811337#1" to="102651364#22" count="1"/>
+		<!--"Junction : Maliban Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#2" to="758636098#3" count="30"/>
+		<!--"Junction : Maliban Junction Direction : Out of Colombo"-->
+		<edgeRelation from="-19811337#1" to="758636098#3" count="13"/>
+		<!--"Junction : Maliban Junction Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_043" to="19811337#1" count="20"/>
+		<!--"Junction : Maliban Junction Direction : Out of Colombo"-->
+		<edgeRelation from="758636098#2" to="19811337#1" count="1"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_001" to="CR_MP_003" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_002" to="CR_MP_004" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_003" to="CR_MP_005" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_004" to="CR_MP_006" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_005" to="CR_MP_007" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_006" to="CR_MP_008" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_007" to="CR_MP_009" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_008" to="CR_MP_010" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_009" to="CR_MP_012" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_010" to="CR_MP_013" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_011" to="CR_MP_014" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_012" to="CR_MP_015" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_013" to="CR_MP_016" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_014" to="CR_MP_017" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_015" to="CR_MP_018" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_016" to="CR_MP_022" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_017" to="CR_MP_023" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_018" to="CR_MP_025" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_020" to="CR_MP_027" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_021" to="CR_MP_029" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_022" to="CR_MP_030" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_023" to="CR_MP_032" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_024" to="CR_MP_033" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_025" to="CR_MP_034" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_028" to="CR_MP_039" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_029" to="CR_MP_040" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_030" to="CR_MP_041" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="OR_I_031" to="CR_MP_042" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_002" to="OR_O_001" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_003" to="OR_O_002" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_004" to="OR_O_003" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_005" to="OR_O_004" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_006" to="OR_O_005" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_007" to="OR_O_006" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_008" to="OR_O_007" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_009" to="OR_O_008" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_011" to="OR_O_009" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_012" to="OR_O_010" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_013" to="OR_O_011" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_014" to="OR_O_012" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_015" to="OR_O_013" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_016" to="OR_O_014" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_017" to="OR_O_015" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_021" to="OR_O_016" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_022" to="OR_O_017" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_024" to="OR_O_018" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_026" to="OR_O_020" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_028" to="OR_O_021" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_029" to="OR_O_022" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_031" to="OR_O_023" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_032" to="OR_O_024" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_033" to="OR_O_025" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_038" to="OR_O_028" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_039" to="OR_O_029" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_040" to="OR_O_030" count="4"/>
+		<!--"Junction : Other Direction : To Colombo"-->
+		<edgeRelation from="CR_MP_041" to="OR_O_031" count="4"/>
+	</interval>
+
+</data>

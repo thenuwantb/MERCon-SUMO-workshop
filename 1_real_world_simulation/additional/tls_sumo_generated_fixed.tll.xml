@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-07 20:04:26 by Eclipse SUMO netedit Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="E:\OneDrive\SUMO\Coding\Coding\bpm_shared_05102021\5_Cross_Maliban_Real_Counts\network\colombo_galleroad_edges_renamed_60kmph_08122022.net.xml"/>
+    </input>
+
+    <output>
+        <tls-file value="E:\OneDrive\SUMO\Coding\Coding\bpm_shared_05102021\5_Cross_Maliban_Real_Counts\additional\tls_sumo_generated_fixed.tll.xml"/>
+        <output.street-names value="true"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="1"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.50"/>
+        <rectangular-lane-cut value="0"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="0"/>
+    </pedestrian>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <tlLogic id="cross_junction" type="static" programID="1" offset="0">
+        <phase duration="45" state="rrrrrGGGGGrrrrrrGGGG"/>
+        <phase duration="2" state="rrrrryyyyyyrrrrryyyy"/>
+        <phase duration="15" state="rrrrrrrrrrrGGrGGGrrr"/>
+        <phase duration="2" state="yyyyyyyrrrrrrrrrrrrr"/>
+        <phase duration="30" state="GGGGGGGrrrrrrgrrrrrr"/>
+        <phase duration="2" state="rrrrrrrrrrryyyyyyrrr"/>
+        <phase duration="15" state="rrrrrGGGGGGrrrrrrrrr"/>
+    </tlLogic>
+	
+	<tlLogic id="cluster_1278003886_4798918376" type="static" programID="1" offset="0">
+
+        <phase duration="61" state="rrrrGGGGGGGr"/>
+        <phase duration="2"  state="rrrryyyyGGGy"/>
+        <phase duration="49" state="rrrrrrrrGGGG"/>
+        <phase duration="2"  state="rrrrrrrryyyy"/>
+        <phase duration="71" state="GGGGGrrrrrrr"/>
+        <phase duration="2"  state="yyyyyrrrrrrr"/>
+
+    </tlLogic>
+	
+	<tlLogic id="cluster_334472083_7085495071" type="static" programID="1" offset="0">
+
+
+        <phase duration="45" state="GGGGGrrrrr"/>
+        <phase duration="2"  state="GGGyyryyyy"/>
+        <phase duration="45" state="GGGryGGGGG"/>
+        <phase duration="2"  state="yyyryyyyyy"/>
+        <phase duration="25" state="rrrrGGGrrr"/>
+        <phase duration="2"  state="yyyyyyyrrr"/>
+
+    </tlLogic>
+	
+	<tlLogic id="cluster_4798898808_7085506293" type="static" programID="1" offset="0">
+        <phase duration="70" state="GGgGGgrrrGGGGgrrrr"/>
+        <phase duration="2"  state="yyyyyyrrryyyyyrrrr"/>
+        <phase duration="20" state="rrrrrrGGgrrrrrGGGg"/>
+        <phase duration="2"  state="rrrrrryyyrrrrryyyy"/>
+    </tlLogic>
+
+    <tlLogic id="cluster_327362677_7085506317" type="static" programID="1" offset="0">
+        <phase duration="70" state="GGGGGGGGrrrrr"/>
+        <phase duration="2"  state="yyyyyyyyyrrrr"/>
+        <phase duration="10" state="grGrrrrrrGGGG"/>
+        <phase duration="2"  state="yryrrrrrryyyy"/>
+        <phase duration="10"  state="rrrrrGGGGGGrr"/>
+    </tlLogic>
+	
+	<tlLogic id="cluster_3803663909_60798012" type="static" programID="1" offset="0">
+
+
+        <phase duration="45" state="GGGGGGgrrGGGGGgrrrr"/>
+        <phase duration="2"  state="yyyyyyrrrryyyyyrrrr"/>
+        <phase duration="10" state="rrrrrrrGGgrrrrrGGGG"/>
+        <phase duration="2"  state="rrrrrrryyyrrrrryyyy"/>
+
+
+    </tlLogic>
+	
+	<tlLogic id="cluster_599347546_7085525502" type="static" programID="1" offset="0">
+        <phase duration="30" state="GGGGGGGrrrrrrrrrrrr"/>
+        <phase duration="60"  state="GGgGGryrrGGGGrrrrrr"/>
+        <phase duration="20" state="rrrrrrrrrGGGGGGGrrr"/>
+        <phase duration="20"  state="rrrrrrGrrrrrrrGGGGG"/>
+        <phase duration="20"  state="rrrrrrGGGrrrrrGGrrr"/>
+    </tlLogic>
+	
+</additional>
+

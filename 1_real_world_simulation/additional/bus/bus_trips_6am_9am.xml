@@ -1,0 +1,2048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+
+	<vType id="short_distance" vClass="bus" accel="2.6" decel="4.5" sigma="0.5" length="12" minGap="3" maxSpeed="9.72"/>
+	<vType id="long_distance" vClass="bus" accel="2.6" decel="4.5" sigma="0.5" length="12" minGap="3" maxSpeed="12.5"/>
+	<vType id="other" vClass="bus" accel="2.6" decel="4.5" sigma="0.5" length="12" minGap="3" maxSpeed="12.5"/>
+
+	<trip id="bus_154_0_35991" type="short_distance" depart="905" from="OR_I_017" to="102651364#23.9">
+		<stop busStop="08_german_tec" duration="15"/>
+		<stop busStop="09_soyza_flat" duration="24"/>
+		<stop busStop="10_golumadama" duration="18"/>
+		<stop busStop="11_golumadama_sathosa" duration="15"/>
+		<stop busStop="12_belek_kade" duration="11"/>
+		<stop busStop="13_vijitha_hall" duration="20"/>
+		<stop busStop="14_maliban_junc" duration="11"/>
+	</trip>
+	<trip id="bus_long_dist_0_35991" type="long_distance" depart="1052" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="4"/>
+		<stop busStop="03_rawatawatta" duration="3"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="8"/>
+		<stop busStop="09_soyza_flat" duration="12"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="6"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="3"/>
+		<stop busStop="14_maliban_junc" duration="9"/>
+	</trip>
+	<trip id="bus_100_0_35991" type="short_distance" depart="1113" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="4"/>
+		<stop busStop="03_rawatawatta" duration="24"/>
+		<stop busStop="04_lakshapathiya" duration="9"/>
+		<stop busStop="05_commercial_bank_rw" duration="27"/>
+		<stop busStop="06_katubedda_junc" duration="5"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="21"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_35992" type="long_distance" depart="1142" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="4"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="2"/>
+		<stop busStop="12_belek_kade" duration="4"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="8"/>
+	</trip>
+	<trip id="bus_long_dist_0_35993" type="long_distance" depart="1232" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="3"/>
+		<stop busStop="04_lakshapathiya" duration="2"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="3"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_100_0_35992" type="short_distance" depart="1233" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="5"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="4"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="20"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_101_0_35991" type="short_distance" depart="1275" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="7"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="6"/>
+		<stop busStop="06_katubedda_junc" duration="28"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="30"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_255_0_35991" type="short_distance" depart="1311" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="15"/>
+		<stop busStop="08_german_tec" duration="10"/>
+		<stop busStop="09_soyza_flat" duration="9"/>
+		<stop busStop="10_golumadama" duration="7"/>
+		<stop busStop="11_golumadama_sathosa" duration="21"/>
+		<stop busStop="12_belek_kade" duration="12"/>
+		<stop busStop="13_vijitha_hall" duration="8"/>
+		<stop busStop="14_maliban_junc" duration="9"/>
+	</trip>
+	<trip id="bus_183_0_35991" type="short_distance" depart="1319" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="14"/>
+		<stop busStop="02_mendis_tower" duration="22"/>
+		<stop busStop="03_rawatawatta" duration="16"/>
+		<stop busStop="04_lakshapathiya" duration="14"/>
+		<stop busStop="05_commercial_bank_rw" duration="9"/>
+		<stop busStop="06_katubedda_junc" duration="18"/>
+		<stop busStop="07_mallika_bakery" duration="10"/>
+		<stop busStop="08_german_tec" duration="39"/>
+		<stop busStop="09_soyza_flat" duration="59"/>
+		<stop busStop="10_golumadama" duration="8"/>
+		<stop busStop="11_golumadama_sathosa" duration="28"/>
+		<stop busStop="12_belek_kade" duration="13"/>
+		<stop busStop="13_vijitha_hall" duration="15"/>
+		<stop busStop="14_maliban_junc" duration="46"/>
+	</trip>
+	<trip id="bus_long_dist_0_35994" type="long_distance" depart="1322" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="4"/>
+		<stop busStop="03_rawatawatta" duration="1"/>
+		<stop busStop="04_lakshapathiya" duration="2"/>
+		<stop busStop="05_commercial_bank_rw" duration="8"/>
+		<stop busStop="06_katubedda_junc" duration="8"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_192_0_35991" type="short_distance" depart="1322" from="112446385#5" to="19811337#1">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="4"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="4"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="14"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_35991" type="other" depart="1337" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_35993" type="short_distance" depart="1353" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="4"/>
+		<stop busStop="02_mendis_tower" duration="4"/>
+		<stop busStop="03_rawatawatta" duration="4"/>
+		<stop busStop="04_lakshapathiya" duration="9"/>
+		<stop busStop="05_commercial_bank_rw" duration="11"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="8"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="22"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_101_0_35992" type="short_distance" depart="1395" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="4"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="27"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_35995" type="long_distance" depart="1412" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="13"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="13"/>
+		<stop busStop="04_lakshapathiya" duration="4"/>
+		<stop busStop="05_commercial_bank_rw" duration="4"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="14"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="5"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="7"/>
+		<stop busStop="14_maliban_junc" duration="15"/>
+	</trip>
+	<trip id="bus_other_0_35992" type="other" depart="1417" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_35994" type="short_distance" depart="1473" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="16"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="6"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="20"/>
+		<stop busStop="09_soyza_flat" duration="16"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="2"/>
+		<stop busStop="12_belek_kade" duration="12"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_35993" type="other" depart="1497" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_35996" type="long_distance" depart="1502" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="7"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="9"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="5"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="5"/>
+		<stop busStop="13_vijitha_hall" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_154_0_35992" type="short_distance" depart="1505" from="OR_I_017" to="102651364#23.9">
+		<stop busStop="08_german_tec" duration="11"/>
+		<stop busStop="09_soyza_flat" duration="24"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="7"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="4"/>
+	</trip>
+	<trip id="bus_101_0_35993" type="short_distance" depart="1515" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="4"/>
+		<stop busStop="03_rawatawatta" duration="3"/>
+		<stop busStop="04_lakshapathiya" duration="9"/>
+		<stop busStop="05_commercial_bank_rw" duration="13"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="20"/>
+		<stop busStop="12_belek_kade" duration="6"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_35994" type="other" depart="1577" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_35997" type="long_distance" depart="1592" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="8"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="6"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="2"/>
+		<stop busStop="12_belek_kade" duration="5"/>
+		<stop busStop="13_vijitha_hall" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_100_0_35995" type="short_distance" depart="1593" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="27"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="8"/>
+		<stop busStop="04_lakshapathiya" duration="24"/>
+		<stop busStop="05_commercial_bank_rw" duration="9"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="17"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_255_0_35992" type="short_distance" depart="1611" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="180"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="4"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="18"/>
+		<stop busStop="12_belek_kade" duration="6"/>
+		<stop busStop="13_vijitha_hall" duration="7"/>
+		<stop busStop="14_maliban_junc" duration="5"/>
+	</trip>
+	<trip id="bus_101_0_35994" type="short_distance" depart="1635" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="21"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="6"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="27"/>
+		<stop busStop="09_soyza_flat" duration="19"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="14"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_35995" type="other" depart="1657" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="9"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="10"/>
+	</trip>
+	<trip id="bus_long_dist_0_35998" type="long_distance" depart="1682" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="5"/>
+		<stop busStop="03_rawatawatta" duration="2"/>
+		<stop busStop="04_lakshapathiya" duration="4"/>
+		<stop busStop="05_commercial_bank_rw" duration="14"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="4"/>
+		<stop busStop="12_belek_kade" duration="6"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_35996" type="short_distance" depart="1713" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="5"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="3"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="8"/>
+		<stop busStop="12_belek_kade" duration="4"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="9"/>
+	</trip>
+	<trip id="bus_other_0_35996" type="other" depart="1737" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_101_0_35995" type="short_distance" depart="1755" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="43"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="7"/>
+		<stop busStop="04_lakshapathiya" duration="37"/>
+		<stop busStop="05_commercial_bank_rw" duration="9"/>
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="7"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="19"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="11"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_long_dist_0_35999" type="long_distance" depart="1772" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="7"/>
+		<stop busStop="02_mendis_tower" duration="13"/>
+		<stop busStop="03_rawatawatta" duration="7"/>
+		<stop busStop="04_lakshapathiya" duration="2"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="5"/>
+		<stop busStop="14_maliban_junc" duration="4"/>
+	</trip>
+	<trip id="bus_other_0_35997" type="other" depart="1817" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_100_0_35997" type="short_distance" depart="1833" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="14"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="1"/>
+		<stop busStop="04_lakshapathiya" duration="37"/>
+		<stop busStop="05_commercial_bank_rw" duration="13"/>
+		<stop busStop="06_katubedda_junc" duration="7"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="20"/>
+		<stop busStop="10_golumadama" duration="7"/>
+		<stop busStop="11_golumadama_sathosa" duration="2"/>
+		<stop busStop="12_belek_kade" duration="8"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_long_dist_0_359910" type="long_distance" depart="1862" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="2"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="8"/>
+		<stop busStop="13_vijitha_hall" duration="11"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_101_0_35996" type="short_distance" depart="1875" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="4"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="7"/>
+		<stop busStop="12_belek_kade" duration="4"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="8"/>
+	</trip>
+	<trip id="bus_other_0_35998" type="other" depart="1897" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_255_0_35993" type="short_distance" depart="1911" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="6"/>
+		<stop busStop="08_german_tec" duration="7"/>
+		<stop busStop="09_soyza_flat" duration="11"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="8"/>
+		<stop busStop="12_belek_kade" duration="5"/>
+		<stop busStop="13_vijitha_hall" duration="3"/>
+		<stop busStop="14_maliban_junc" duration="8"/>
+	</trip>
+	<trip id="bus_183_0_35992" type="short_distance" depart="1919" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="9"/>
+		<stop busStop="02_mendis_tower" duration="22"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="6"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="7"/>
+		<stop busStop="09_soyza_flat" duration="9"/>
+		<stop busStop="10_golumadama" duration="13"/>
+		<stop busStop="11_golumadama_sathosa" duration="9"/>
+		<stop busStop="12_belek_kade" duration="20"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="37"/>
+	</trip>
+	<trip id="bus_long_dist_0_359911" type="long_distance" depart="1952" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="5"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="3"/>
+		<stop busStop="04_lakshapathiya" duration="5"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="4"/>
+		<stop busStop="12_belek_kade" duration="11"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_100_0_35998" type="short_distance" depart="1953" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="1"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="4"/>
+		<stop busStop="12_belek_kade" duration="15"/>
+		<stop busStop="13_vijitha_hall" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_35999" type="other" depart="1977" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="9"/>
+		<stop busStop="14_maliban_junc" duration="4"/>
+	</trip>
+	<trip id="bus_101_0_35997" type="short_distance" depart="1995" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="16"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="1"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="30"/>
+		<stop busStop="07_mallika_bakery" duration="5"/>
+		<stop busStop="08_german_tec" duration="6"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="42"/>
+	</trip>
+	<trip id="bus_long_dist_0_359912" type="long_distance" depart="2042" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="2"/>
+		<stop busStop="04_lakshapathiya" duration="4"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="10"/>
+		<stop busStop="10_golumadama" duration="7"/>
+		<stop busStop="11_golumadama_sathosa" duration="5"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="8"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_other_0_359910" type="other" depart="2057" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_35999" type="short_distance" depart="2073" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="12"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="2"/>
+		<stop busStop="04_lakshapathiya" duration="5"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="8"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="2"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="19"/>
+	</trip>
+	<trip id="bus_154_0_35993" type="short_distance" depart="2105" from="OR_I_017" to="102651364#23.9">
+		<stop busStop="08_german_tec" duration="11"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="15"/>
+		<stop busStop="11_golumadama_sathosa" duration="11"/>
+		<stop busStop="12_belek_kade" duration="11"/>
+		<stop busStop="13_vijitha_hall" duration="8"/>
+		<stop busStop="14_maliban_junc" duration="4"/>
+	</trip>
+	<trip id="bus_101_0_35998" type="short_distance" depart="2115" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="19"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359913" type="long_distance" depart="2132" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="5"/>
+		<stop busStop="03_rawatawatta" duration="1"/>
+		<stop busStop="04_lakshapathiya" duration="2"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="9"/>
+		<stop busStop="07_mallika_bakery" duration="8"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="12"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="11"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_other_0_359911" type="other" depart="2137" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_359910" type="short_distance" depart="2193" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="4"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="8"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="16"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="11"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_255_0_35994" type="short_distance" depart="2211" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="21"/>
+		<stop busStop="08_german_tec" duration="9"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="38"/>
+		<stop busStop="13_vijitha_hall" duration="3"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359912" type="other" depart="2217" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359914" type="long_distance" depart="2222" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="5"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="6"/>
+		<stop busStop="04_lakshapathiya" duration="12"/>
+		<stop busStop="05_commercial_bank_rw" duration="13"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="3"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_192_0_35992" type="short_distance" depart="2222" from="112446385#5" to="19811337#1">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="2"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="13"/>
+	</trip>
+	<trip id="bus_101_0_35999" type="short_distance" depart="2235" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="14"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="2"/>
+		<stop busStop="04_lakshapathiya" duration="4"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="7"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="26"/>
+	</trip>
+	<trip id="bus_other_0_359913" type="other" depart="2297" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359915" type="long_distance" depart="2312" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="5"/>
+		<stop busStop="03_rawatawatta" duration="7"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="12"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="6"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_359911" type="short_distance" depart="2313" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="7"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="6"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="3"/>
+		<stop busStop="09_soyza_flat" duration="16"/>
+		<stop busStop="10_golumadama" duration="10"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="7"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_101_0_359910" type="short_distance" depart="2355" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="8"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="19"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="12"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359914" type="other" depart="2377" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_long_dist_0_359916" type="long_distance" depart="2402" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="7"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="9"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_100_0_359912" type="short_distance" depart="2433" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="6"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="8"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="9"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="20"/>
+	</trip>
+	<trip id="bus_other_0_359915" type="other" depart="2457" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="4"/>
+	</trip>
+	<trip id="bus_101_0_359911" type="short_distance" depart="2475" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="4"/>
+		<stop busStop="02_mendis_tower" duration="7"/>
+		<stop busStop="03_rawatawatta" duration="5"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="23"/>
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="10"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="9"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_long_dist_0_359917" type="long_distance" depart="2492" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="3"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="4"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="10"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_255_0_35995" type="short_distance" depart="2511" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="8"/>
+		<stop busStop="08_german_tec" duration="9"/>
+		<stop busStop="09_soyza_flat" duration="6"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="29"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="9"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_183_0_35993" type="short_distance" depart="2519" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="10"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="14"/>
+		<stop busStop="04_lakshapathiya" duration="10"/>
+		<stop busStop="05_commercial_bank_rw" duration="9"/>
+		<stop busStop="06_katubedda_junc" duration="7"/>
+		<stop busStop="07_mallika_bakery" duration="4"/>
+		<stop busStop="08_german_tec" duration="17"/>
+		<stop busStop="09_soyza_flat" duration="6"/>
+		<stop busStop="10_golumadama" duration="5"/>
+		<stop busStop="11_golumadama_sathosa" duration="17"/>
+		<stop busStop="12_belek_kade" duration="13"/>
+		<stop busStop="13_vijitha_hall" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="12"/>
+	</trip>
+	<trip id="bus_other_0_359916" type="other" depart="2537" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_359913" type="short_distance" depart="2553" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="18"/>
+		<stop busStop="03_rawatawatta" duration="1"/>
+		<stop busStop="04_lakshapathiya" duration="2"/>
+		<stop busStop="05_commercial_bank_rw" duration="7"/>
+		<stop busStop="06_katubedda_junc" duration="10"/>
+		<stop busStop="07_mallika_bakery" duration="6"/>
+		<stop busStop="08_german_tec" duration="10"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="3"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_long_dist_0_359918" type="long_distance" depart="2582" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="5"/>
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="3"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="11"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="7"/>
+		<stop busStop="14_maliban_junc" duration="8"/>
+	</trip>
+	<trip id="bus_101_0_359912" type="short_distance" depart="2595" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="6"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="8"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="3"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="8"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="27"/>
+	</trip>
+	<trip id="bus_other_0_359917" type="other" depart="2617" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359919" type="long_distance" depart="2672" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="4"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="8"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="7"/>
+		<stop busStop="06_katubedda_junc" duration="5"/>
+		<stop busStop="07_mallika_bakery" duration="4"/>
+		<stop busStop="08_german_tec" duration="16"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="7"/>
+		<stop busStop="13_vijitha_hall" duration="5"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_359914" type="short_distance" depart="2673" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="8"/>
+		<stop busStop="02_mendis_tower" duration="8"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="7"/>
+		<stop busStop="07_mallika_bakery" duration="5"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="7"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="17"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359918" type="other" depart="2697" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_154_0_35994" type="short_distance" depart="2705" from="OR_I_017" to="102651364#23.9">
+		<stop busStop="08_german_tec" duration="15"/>
+		<stop busStop="09_soyza_flat" duration="23"/>
+		<stop busStop="10_golumadama" duration="7"/>
+		<stop busStop="11_golumadama_sathosa" duration="14"/>
+		<stop busStop="12_belek_kade" duration="44"/>
+		<stop busStop="13_vijitha_hall" duration="44"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_101_0_359913" type="short_distance" depart="2715" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="25"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="2"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="11"/>
+		<stop busStop="07_mallika_bakery" duration="5"/>
+		<stop busStop="08_german_tec" duration="10"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="3"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_long_dist_0_359920" type="long_distance" depart="2762" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="5"/>
+		<stop busStop="03_rawatawatta" duration="1"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="4"/>
+		<stop busStop="08_german_tec" duration="6"/>
+		<stop busStop="09_soyza_flat" duration="15"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="3"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_other_0_359919" type="other" depart="2777" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="4"/>
+	</trip>
+	<trip id="bus_100_0_359915" type="short_distance" depart="2793" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="9"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="7"/>
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="4"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_255_0_35996" type="short_distance" depart="2811" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="12"/>
+		<stop busStop="08_german_tec" duration="6"/>
+		<stop busStop="09_soyza_flat" duration="8"/>
+		<stop busStop="10_golumadama" duration="34"/>
+		<stop busStop="11_golumadama_sathosa" duration="5"/>
+		<stop busStop="12_belek_kade" duration="6"/>
+		<stop busStop="13_vijitha_hall" duration="12"/>
+		<stop busStop="14_maliban_junc" duration="21"/>
+	</trip>
+	<trip id="bus_101_0_359914" type="short_distance" depart="2835" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="8"/>
+		<stop busStop="02_mendis_tower" duration="7"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="6"/>
+		<stop busStop="07_mallika_bakery" duration="4"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="7"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="21"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359921" type="long_distance" depart="2852" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="8"/>
+		<stop busStop="03_rawatawatta" duration="8"/>
+		<stop busStop="04_lakshapathiya" duration="6"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="4"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="4"/>
+		<stop busStop="13_vijitha_hall" duration="5"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_other_0_359920" type="other" depart="2857" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_359916" type="short_distance" depart="2913" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="11"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="12"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="4"/>
+		<stop busStop="12_belek_kade" duration="8"/>
+		<stop busStop="13_vijitha_hall" duration="6"/>
+		<stop busStop="14_maliban_junc" duration="4"/>
+	</trip>
+	<trip id="bus_other_0_359921" type="other" depart="2937" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="5"/>
+		<stop busStop="14_maliban_junc" duration="5"/>
+	</trip>
+	<trip id="bus_long_dist_0_359922" type="long_distance" depart="2942" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="4"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="7"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_101_0_359915" type="short_distance" depart="2955" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="9"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="7"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359922" type="other" depart="3017" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_long_dist_0_359923" type="long_distance" depart="3032" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="2"/>
+		<stop busStop="04_lakshapathiya" duration="7"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="6"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="6"/>
+		<stop busStop="14_maliban_junc" duration="5"/>
+	</trip>
+	<trip id="bus_100_0_359917" type="short_distance" depart="3033" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="6"/>
+		<stop busStop="06_katubedda_junc" duration="18"/>
+		<stop busStop="07_mallika_bakery" duration="7"/>
+		<stop busStop="08_german_tec" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="5"/>
+	</trip>
+	<trip id="bus_101_0_359916" type="short_distance" depart="3075" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="12"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="13"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="3"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="4"/>
+	</trip>
+	<trip id="bus_other_0_359923" type="other" depart="3097" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_255_0_35997" type="short_distance" depart="3111" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="7"/>
+		<stop busStop="08_german_tec" duration="18"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="12"/>
+		<stop busStop="11_golumadama_sathosa" duration="18"/>
+		<stop busStop="12_belek_kade" duration="9"/>
+		<stop busStop="13_vijitha_hall" duration="10"/>
+		<stop busStop="14_maliban_junc" duration="8"/>
+	</trip>
+	<trip id="bus_183_0_35994" type="short_distance" depart="3119" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="14"/>
+		<stop busStop="02_mendis_tower" duration="22"/>
+		<stop busStop="03_rawatawatta" duration="6"/>
+		<stop busStop="04_lakshapathiya" duration="12"/>
+		<stop busStop="05_commercial_bank_rw" duration="39"/>
+		<stop busStop="06_katubedda_junc" duration="40"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="10"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="10"/>
+		<stop busStop="13_vijitha_hall" duration="18"/>
+		<stop busStop="14_maliban_junc" duration="5"/>
+	</trip>
+	<trip id="bus_long_dist_0_359924" type="long_distance" depart="3122" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="11"/>
+		<stop busStop="03_rawatawatta" duration="5"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="3"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="8"/>
+		<stop busStop="13_vijitha_hall" duration="8"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_192_0_35993" type="short_distance" depart="3122" from="112446385#5" to="19811337#1">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="2"/>
+		<stop busStop="04_lakshapathiya" duration="5"/>
+		<stop busStop="05_commercial_bank_rw" duration="7"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="10"/>
+		<stop busStop="12_belek_kade" duration="4"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_359918" type="short_distance" depart="3153" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="12"/>
+		<stop busStop="04_lakshapathiya" duration="4"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="6"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="5"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="6"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="3"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359924" type="other" depart="3177" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="8"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_101_0_359917" type="short_distance" depart="3195" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="5"/>
+		<stop busStop="06_katubedda_junc" duration="24"/>
+		<stop busStop="07_mallika_bakery" duration="6"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="4"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="40"/>
+		<stop busStop="14_maliban_junc" duration="6"/>
+	</trip>
+	<trip id="bus_long_dist_0_359925" type="long_distance" depart="3212" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="12"/>
+		<stop busStop="02_mendis_tower" duration="4"/>
+		<stop busStop="03_rawatawatta" duration="34"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="5"/>
+		<stop busStop="07_mallika_bakery" duration="21"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="8"/>
+	</trip>
+	<trip id="bus_other_0_359925" type="other" depart="3257" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="9"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="30"/>
+	</trip>
+	<trip id="bus_100_0_359919" type="short_distance" depart="3273" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="5"/>
+		<stop busStop="02_mendis_tower" duration="7"/>
+		<stop busStop="03_rawatawatta" duration="5"/>
+		<stop busStop="04_lakshapathiya" duration="12"/>
+		<stop busStop="05_commercial_bank_rw" duration="5"/>
+		<stop busStop="06_katubedda_junc" duration="20"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="11"/>
+		<stop busStop="09_soyza_flat" duration="5"/>
+		<stop busStop="10_golumadama" duration="5"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="19"/>
+		<stop busStop="13_vijitha_hall" duration="9"/>
+		<stop busStop="14_maliban_junc" duration="8"/>
+	</trip>
+	<trip id="bus_long_dist_0_359926" type="long_distance" depart="3302" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="7"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="1"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="4"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="3"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_154_0_35995" type="short_distance" depart="3305" from="OR_I_017" to="102651364#23.9">
+		<stop busStop="08_german_tec" duration="75"/>
+		<stop busStop="09_soyza_flat" duration="15"/>
+		<stop busStop="10_golumadama" duration="81"/>
+		<stop busStop="11_golumadama_sathosa" duration="24"/>
+		<stop busStop="12_belek_kade" duration="22"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="86"/>
+	</trip>
+	<trip id="bus_101_0_359918" type="short_distance" depart="3315" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="13"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="5"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="6"/>
+		<stop busStop="11_golumadama_sathosa" duration="9"/>
+		<stop busStop="12_belek_kade" duration="4"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="19"/>
+	</trip>
+	<trip id="bus_other_0_359926" type="other" depart="3337" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359927" type="long_distance" depart="3392" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="5"/>
+		<stop busStop="04_lakshapathiya" duration="5"/>
+		<stop busStop="05_commercial_bank_rw" duration="7"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="5"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="5"/>
+	</trip>
+	<trip id="bus_100_0_359920" type="short_distance" depart="3393" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="32"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="6"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="6"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="11"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_255_0_35998" type="short_distance" depart="3411" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="10"/>
+		<stop busStop="08_german_tec" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="8"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="12"/>
+		<stop busStop="12_belek_kade" duration="6"/>
+		<stop busStop="13_vijitha_hall" duration="8"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359927" type="other" depart="3417" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_101_0_359919" type="short_distance" depart="3435" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="4"/>
+		<stop busStop="02_mendis_tower" duration="6"/>
+		<stop busStop="03_rawatawatta" duration="4"/>
+		<stop busStop="04_lakshapathiya" duration="14"/>
+		<stop busStop="05_commercial_bank_rw" duration="5"/>
+		<stop busStop="06_katubedda_junc" duration="28"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="11"/>
+		<stop busStop="09_soyza_flat" duration="4"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="26"/>
+		<stop busStop="13_vijitha_hall" duration="10"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_long_dist_0_359928" type="long_distance" depart="3482" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="6"/>
+		<stop busStop="03_rawatawatta" duration="5"/>
+		<stop busStop="04_lakshapathiya" duration="7"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="14"/>
+		<stop busStop="07_mallika_bakery" duration="8"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="5"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="8"/>
+		<stop busStop="12_belek_kade" duration="7"/>
+		<stop busStop="13_vijitha_hall" duration="5"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_other_0_359928" type="other" depart="3497" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="3"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_100_0_359921" type="short_distance" depart="3513" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="4"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="8"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="3"/>
+		<stop busStop="06_katubedda_junc" duration="9"/>
+		<stop busStop="07_mallika_bakery" duration="5"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="7"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_101_0_359920" type="short_distance" depart="3555" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="2"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="3"/>
+		<stop busStop="09_soyza_flat" duration="12"/>
+		<stop busStop="10_golumadama" duration="12"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="15"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_long_dist_0_359929" type="long_distance" depart="3572" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="5"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="5"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="7"/>
+		<stop busStop="09_soyza_flat" duration="11"/>
+		<stop busStop="10_golumadama" duration="15"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="13"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359929" type="other" depart="3577" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_359922" type="short_distance" depart="3633" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="4"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="26"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="8"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="10"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="14"/>
+		<stop busStop="12_belek_kade" duration="13"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="4"/>
+	</trip>
+	<trip id="bus_other_0_359930" type="other" depart="3657" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359930" type="long_distance" depart="3662" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="7"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="5"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="4"/>
+		<stop busStop="08_german_tec" duration="7"/>
+		<stop busStop="09_soyza_flat" duration="5"/>
+		<stop busStop="10_golumadama" duration="5"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="4"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_101_0_359921" type="short_distance" depart="3675" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="7"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="6"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="4"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="5"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="1"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_255_0_35999" type="short_distance" depart="3711" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="8"/>
+		<stop busStop="08_german_tec" duration="13"/>
+		<stop busStop="09_soyza_flat" duration="13"/>
+		<stop busStop="10_golumadama" duration="16"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="13"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_183_0_35995" type="short_distance" depart="3719" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="61"/>
+		<stop busStop="02_mendis_tower" duration="14"/>
+		<stop busStop="03_rawatawatta" duration="64"/>
+		<stop busStop="04_lakshapathiya" duration="22"/>
+		<stop busStop="05_commercial_bank_rw" duration="21"/>
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="07_mallika_bakery" duration="66"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="5"/>
+		<stop busStop="10_golumadama" duration="10"/>
+		<stop busStop="11_golumadama_sathosa" duration="27"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="35"/>
+		<stop busStop="14_maliban_junc" duration="73"/>
+	</trip>
+	<trip id="bus_other_0_359931" type="other" depart="3737" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_long_dist_0_359931" type="long_distance" depart="3752" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="4"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="12"/>
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="07_mallika_bakery" duration="18"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="3"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="5"/>
+	</trip>
+	<trip id="bus_100_0_359923" type="short_distance" depart="3753" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="7"/>
+		<stop busStop="05_commercial_bank_rw" duration="8"/>
+		<stop busStop="06_katubedda_junc" duration="5"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="8"/>
+		<stop busStop="09_soyza_flat" duration="14"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="9"/>
+		<stop busStop="13_vijitha_hall" duration="33"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_101_0_359922" type="short_distance" depart="3795" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="15"/>
+		<stop busStop="03_rawatawatta" duration="2"/>
+		<stop busStop="04_lakshapathiya" duration="5"/>
+		<stop busStop="05_commercial_bank_rw" duration="22"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="8"/>
+		<stop busStop="12_belek_kade" duration="8"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="8"/>
+	</trip>
+	<trip id="bus_other_0_359932" type="other" depart="3817" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="8"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_long_dist_0_359932" type="long_distance" depart="3842" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="12"/>
+		<stop busStop="03_rawatawatta" duration="5"/>
+		<stop busStop="04_lakshapathiya" duration="16"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="9"/>
+		<stop busStop="08_german_tec" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_100_0_359924" type="short_distance" depart="3873" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="3"/>
+		<stop busStop="02_mendis_tower" duration="5"/>
+		<stop busStop="03_rawatawatta" duration="4"/>
+		<stop busStop="04_lakshapathiya" duration="28"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="6"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="5"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="14"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359933" type="other" depart="3897" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_154_0_35996" type="short_distance" depart="3905" from="OR_I_017" to="102651364#23.9">
+		<stop busStop="08_german_tec" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="39"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="50"/>
+		<stop busStop="12_belek_kade" duration="13"/>
+		<stop busStop="13_vijitha_hall" duration="18"/>
+		<stop busStop="14_maliban_junc" duration="27"/>
+	</trip>
+	<trip id="bus_101_0_359923" type="short_distance" depart="3915" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="6"/>
+		<stop busStop="05_commercial_bank_rw" duration="8"/>
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="8"/>
+		<stop busStop="09_soyza_flat" duration="16"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="9"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359933" type="long_distance" depart="3932" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="7"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="3"/>
+		<stop busStop="04_lakshapathiya" duration="11"/>
+		<stop busStop="05_commercial_bank_rw" duration="5"/>
+		<stop busStop="06_katubedda_junc" duration="6"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="10"/>
+		<stop busStop="09_soyza_flat" duration="3"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="2"/>
+	</trip>
+	<trip id="bus_other_0_359934" type="other" depart="3977" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_100_0_359925" type="short_distance" depart="3993" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="21"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="7"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="10"/>
+		<stop busStop="06_katubedda_junc" duration="13"/>
+		<stop busStop="07_mallika_bakery" duration="4"/>
+		<stop busStop="08_german_tec" duration="3"/>
+		<stop busStop="09_soyza_flat" duration="11"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="2"/>
+		<stop busStop="12_belek_kade" duration="46"/>
+		<stop busStop="13_vijitha_hall" duration="28"/>
+		<stop busStop="14_maliban_junc" duration="9"/>
+	</trip>
+	<trip id="bus_255_0_359910" type="short_distance" depart="4011" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="8"/>
+		<stop busStop="08_german_tec" duration="4"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="9"/>
+		<stop busStop="12_belek_kade" duration="15"/>
+		<stop busStop="13_vijitha_hall" duration="12"/>
+		<stop busStop="14_maliban_junc" duration="6"/>
+	</trip>
+	<trip id="bus_192_0_35994" type="short_distance" depart="4022" from="112446385#5" to="19811337#1">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="10"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="13"/>
+		<stop busStop="09_soyza_flat" duration="10"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="7"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359934" type="long_distance" depart="4022" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="2"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="7"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="11"/>
+		<stop busStop="09_soyza_flat" duration="4"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="12"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_101_0_359924" type="short_distance" depart="4035" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="4"/>
+		<stop busStop="03_rawatawatta" duration="3"/>
+		<stop busStop="04_lakshapathiya" duration="46"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="1"/>
+		<stop busStop="08_german_tec" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="4"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="17"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359935" type="other" depart="4057" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_long_dist_0_359935" type="long_distance" depart="4112" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="5"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="10"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="4"/>
+		<stop busStop="13_vijitha_hall" duration="7"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_100_0_359926" type="short_distance" depart="4113" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="13"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="3"/>
+		<stop busStop="04_lakshapathiya" duration="4"/>
+		<stop busStop="05_commercial_bank_rw" duration="1"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="17"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="9"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="5"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_other_0_359936" type="other" depart="4137" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_101_0_359925" type="short_distance" depart="4155" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="30"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="2"/>
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="07_mallika_bakery" duration="31"/>
+		<stop busStop="08_german_tec" duration="8"/>
+		<stop busStop="09_soyza_flat" duration="6"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="1"/>
+		<stop busStop="13_vijitha_hall" duration="44"/>
+		<stop busStop="14_maliban_junc" duration="9"/>
+	</trip>
+	<trip id="bus_long_dist_0_359936" type="long_distance" depart="4202" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="1"/>
+		<stop busStop="03_rawatawatta" duration="1"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="6"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="3"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="4"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="6"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="9"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359937" type="other" depart="4217" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="8"/>
+	</trip>
+	<trip id="bus_100_0_359927" type="short_distance" depart="4233" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="7"/>
+		<stop busStop="04_lakshapathiya" duration="8"/>
+		<stop busStop="05_commercial_bank_rw" duration="25"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="30"/>
+		<stop busStop="08_german_tec" duration="7"/>
+		<stop busStop="09_soyza_flat" duration="13"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="3"/>
+		<stop busStop="12_belek_kade" duration="18"/>
+		<stop busStop="13_vijitha_hall" duration="13"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_101_0_359926" type="short_distance" depart="4275" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="15"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="3"/>
+		<stop busStop="04_lakshapathiya" duration="2"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="8"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="2"/>
+		<stop busStop="09_soyza_flat" duration="10"/>
+		<stop busStop="10_golumadama" duration="2"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="8"/>
+		<stop busStop="13_vijitha_hall" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+	<trip id="bus_long_dist_0_359937" type="long_distance" depart="4292" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="5"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="11"/>
+		<stop busStop="04_lakshapathiya" duration="0"/>
+		<stop busStop="05_commercial_bank_rw" duration="6"/>
+		<stop busStop="06_katubedda_junc" duration="1"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="3"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="11"/>
+		<stop busStop="12_belek_kade" duration="9"/>
+		<stop busStop="13_vijitha_hall" duration="3"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359938" type="other" depart="4297" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="7"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_255_0_359911" type="short_distance" depart="4311" from="gneE5" to="102651364#23.9">
+		<stop busStop="07_mallika_bakery" duration="14"/>
+		<stop busStop="08_german_tec" duration="14"/>
+		<stop busStop="09_soyza_flat" duration="36"/>
+		<stop busStop="10_golumadama" duration="8"/>
+		<stop busStop="11_golumadama_sathosa" duration="5"/>
+		<stop busStop="12_belek_kade" duration="12"/>
+		<stop busStop="13_vijitha_hall" duration="16"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_183_0_35996" type="short_distance" depart="4319" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="4"/>
+		<stop busStop="02_mendis_tower" duration="36"/>
+		<stop busStop="03_rawatawatta" duration="4"/>
+		<stop busStop="04_lakshapathiya" duration="44"/>
+		<stop busStop="05_commercial_bank_rw" duration="11"/>
+		<stop busStop="06_katubedda_junc" duration="16"/>
+		<stop busStop="07_mallika_bakery" duration="25"/>
+		<stop busStop="08_german_tec" duration="13"/>
+		<stop busStop="09_soyza_flat" duration="6"/>
+		<stop busStop="10_golumadama" duration="3"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="23"/>
+		<stop busStop="13_vijitha_hall" duration="10"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_100_0_359928" type="short_distance" depart="4353" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="2"/>
+		<stop busStop="02_mendis_tower" duration="30"/>
+		<stop busStop="03_rawatawatta" duration="6"/>
+		<stop busStop="04_lakshapathiya" duration="1"/>
+		<stop busStop="05_commercial_bank_rw" duration="0"/>
+		<stop busStop="06_katubedda_junc" duration="6"/>
+		<stop busStop="07_mallika_bakery" duration="2"/>
+		<stop busStop="08_german_tec" duration="19"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="6"/>
+		<stop busStop="12_belek_kade" duration="5"/>
+		<stop busStop="13_vijitha_hall" duration="19"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359939" type="other" depart="4377" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="4"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_long_dist_0_359938" type="long_distance" depart="4382" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="11"/>
+		<stop busStop="02_mendis_tower" duration="2"/>
+		<stop busStop="03_rawatawatta" duration="0"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="3"/>
+		<stop busStop="06_katubedda_junc" duration="4"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="5"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="5"/>
+		<stop busStop="11_golumadama_sathosa" duration="6"/>
+		<stop busStop="12_belek_kade" duration="3"/>
+		<stop busStop="13_vijitha_hall" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="12"/>
+	</trip>
+	<trip id="bus_101_0_359927" type="short_distance" depart="4395" from="51086283#3" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="0"/>
+		<stop busStop="02_mendis_tower" duration="0"/>
+		<stop busStop="03_rawatawatta" duration="6"/>
+		<stop busStop="04_lakshapathiya" duration="8"/>
+		<stop busStop="05_commercial_bank_rw" duration="38"/>
+		<stop busStop="06_katubedda_junc" duration="2"/>
+		<stop busStop="07_mallika_bakery" duration="5"/>
+		<stop busStop="08_german_tec" duration="20"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="1"/>
+		<stop busStop="11_golumadama_sathosa" duration="0"/>
+		<stop busStop="12_belek_kade" duration="0"/>
+		<stop busStop="13_vijitha_hall" duration="30"/>
+		<stop busStop="14_maliban_junc" duration="0"/>
+	</trip>
+	<trip id="bus_other_0_359940" type="other" depart="4457" from="112446385#5" to="102651364#23.9">
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="09_soyza_flat" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="3"/>
+	</trip>
+	<trip id="bus_long_dist_0_359939" type="long_distance" depart="4472" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="1"/>
+		<stop busStop="02_mendis_tower" duration="7"/>
+		<stop busStop="03_rawatawatta" duration="11"/>
+		<stop busStop="04_lakshapathiya" duration="4"/>
+		<stop busStop="05_commercial_bank_rw" duration="3"/>
+		<stop busStop="06_katubedda_junc" duration="3"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="1"/>
+		<stop busStop="09_soyza_flat" duration="1"/>
+		<stop busStop="10_golumadama" duration="0"/>
+		<stop busStop="11_golumadama_sathosa" duration="1"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="2"/>
+		<stop busStop="14_maliban_junc" duration="7"/>
+	</trip>
+	<trip id="bus_100_0_359929" type="short_distance" depart="4473" from="112446385#5" to="102651364#23.9">
+		<stop busStop="01_cross_junction" duration="7"/>
+		<stop busStop="02_mendis_tower" duration="3"/>
+		<stop busStop="03_rawatawatta" duration="23"/>
+		<stop busStop="04_lakshapathiya" duration="3"/>
+		<stop busStop="05_commercial_bank_rw" duration="10"/>
+		<stop busStop="06_katubedda_junc" duration="0"/>
+		<stop busStop="07_mallika_bakery" duration="0"/>
+		<stop busStop="08_german_tec" duration="8"/>
+		<stop busStop="09_soyza_flat" duration="0"/>
+		<stop busStop="10_golumadama" duration="4"/>
+		<stop busStop="11_golumadama_sathosa" duration="4"/>
+		<stop busStop="12_belek_kade" duration="2"/>
+		<stop busStop="13_vijitha_hall" duration="0"/>
+		<stop busStop="14_maliban_junc" duration="1"/>
+	</trip>
+</additional>
