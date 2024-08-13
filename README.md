@@ -18,11 +18,3 @@ The workshop focused on using the SUMO open-source simulator to develop realisti
 ## Acknowledgments
 
 This workshop and the research behind it were conducted as part of IRG-42, "Guidelines for implementing bus priority measures in Asian Cities: A simulation-based approach." We gratefully acknowledge the funding and support provided by IRG-42. For more information, please visit their [website](https://easts.info/irg/).
-
-## How to Use
-
-Feel free to explore the materials provided in this repository. Whether you attended the workshop or are just interested in traffic simulation, these resources are designed to help you get started with SUMO.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
