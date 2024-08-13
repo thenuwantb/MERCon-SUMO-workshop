@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-03-26 14:22:13 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="bs_1" lane="E6_0" startPos="50.88" endPos="65.88"/>
+	
+	<vType id="bus" accel="1.5" decel="4.5" length="12" maxSpeed="50" color="1,0,0" guiShape="bus" sigma="0.5" />
+	
+	<trip id="bus_1" type="bus" depart="75" from="E4" to="E6" departLane="free">
+		<stop busStop="bs_1" duration="25"/>
+	</trip>
+	
+	<flow id="bus_flow" type="bus" begin="120" end="750" number="4" from="E5" to="E6" color="0,1,0" departLane="free">
+		<stop busStop="bs_1" duration="10"/>
+	</flow>
+	
+	
+</additional>

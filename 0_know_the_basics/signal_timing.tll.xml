@@ -1,0 +1,11 @@
+<additionals>
+<!-- You have to change Program ID to a different ID-->
+    <tlLogic id="J6" type="static" programID="ActualSignalTiming" offset="0">
+	<!-- I have added custom durations. You can double check with the simulator and see if the simulator using these timings instead of the defaults  -->
+        <phase duration="100" state="GGrr"/>
+        <phase duration="3"  state="yyrr"/>
+        <phase duration="100" state="rrGG"/>
+        <phase duration="3"  state="rryy"/>
+    </tlLogic>
+
+</additionals>
